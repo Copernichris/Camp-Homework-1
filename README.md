@@ -30,3 +30,4 @@ Step one was to make sure CSS aligned with the order of the HTML. Comments were 
 ![screenshot](https://github.com/Copernichris/Camp-Homework-1/blob/main/screenshot.PNG)
 
 # Link
+https://copernichris.github.io/Camp-Homework-1/
