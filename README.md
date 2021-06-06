@@ -27,6 +27,6 @@ Step one was to make sure CSS aligned with the order of the HTML. Comments were 
 
 # Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/Copernichris/Camp-Homework-1/blob/main/screenshot.PNG)
 
 # Link
